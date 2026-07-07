@@ -1,0 +1,10 @@
+{
+  "name": "Samkoon R8 Servo Controller",
+  "description": "Industrial Modbus RTU Interface for Samkoon R8 Servo Drive.",
+  "requestFramePermissions": [
+    "serial"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
